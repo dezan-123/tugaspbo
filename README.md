@@ -86,13 +86,13 @@ Aplikasi desktop sederhana berbasis **Java Swing** untuk mencatat pesanan di seb
 > Letakkan file gambar di folder `screenshots/` lalu sesuaikan nama file di bawah ini.
 
 ### 1. Tampilan Awal
-![Tampilan Awal](screenshots/01-tampilan-awal.png)
+![Tampilan Awal](awal1.png)
 
 ### 2. Pesanan Makan 
-![Makan di Tempat](screenshots/02-makan-di-tempat.png)
+![Makan di Tempat](isi1.png)
 
 ### 3. Hasil
-![Reset](screenshots/05-reset.png)
+![Reset](hasil1.png)
 
 ## Struktur Folder
 
